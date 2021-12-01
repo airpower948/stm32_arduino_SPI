@@ -69,7 +69,7 @@ static void MX_USART2_UART_Init(void);
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-	char user_data[]="h";
+	char user_data[]="hello world";
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
